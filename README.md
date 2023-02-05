@@ -15,7 +15,7 @@ Examples of how these courses could look:
 
 X
 X
-X
+
 
 
 Credit goes to the original G0RELLA template lectures.

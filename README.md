@@ -13,8 +13,6 @@ Find more on how to utilizie this ressource in the online-course X
 
 Examples of how these courses could look:
 
-X
-X
 
 
 

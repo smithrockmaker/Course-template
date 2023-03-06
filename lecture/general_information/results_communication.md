@@ -1,31 +1,27 @@
 # Results communication
 
-## Lecture/Practice 9 - Visualization of results
+## 1. Lecture/Practice - Visualization of results
 
-### Lecture slides and feedback
+- Lecture slides and feedback
 
-### Practice materials and feedback
+### 2. Practice materials and feedback
 
-## Lecture/Practice 10 - Poster and talk design
+- Lecture/Practice - Poster and talk design
 
-### Lecture slides and feedback
+### 3. Lecture slides and feedback
 
-### Practice materials and feedback
+- Practice materials and feedback
 
-## Lecture/Practice 11 - Writing a scientific paper
+## 4. Lecture/Practice - Writing a scientific paper
 
-### Lecture slides and feedback
+- Lecture slides and feedback
 
-### Practice materials and feedback
+- Practice materials and feedback
 
-## Lecture/Practice 12 - Preprint, publication models & open constructive review
+## 5. Lecture/Practice - Preprint, publication models & open constructive review
 
-## Outcomes
-
-### Scientific poster
-
-### Scientific talk
-
-### Scientific preprint
-
-### Open review
+- Outcomes
+  - Scientific poster
+  - Scientific talk
+  - Scientific preprint
+  - Open review

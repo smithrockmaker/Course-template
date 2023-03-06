@@ -18,7 +18,7 @@ Within this course we will explore X, specifically how it can and why it should 
 
 The contact information of the instructors are as follows:
 
-[Name](Webseit)
+[Name](Webseite)
 
 - Office hours: upon request
 - E-mail: `e-mail@psych.uni-frankfurt.de`

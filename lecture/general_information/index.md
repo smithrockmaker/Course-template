@@ -20,9 +20,9 @@ Please visit these pages again in the next few weeks for further information.
 
 Hello everyone and welcome to the course page for X
 
-## Couse name
+## Course name
 
-Within this course we will explore 
+Within this course we will explore X
 
 You can use the following sections to navigate through the content of the lecture:
 
@@ -47,7 +47,7 @@ You can use the following sections to navigate through the content of the lectur
 
    Where should the acquired knowledge to be disseminated?
 
-* [Symposium]((https://m-earnest.github.io/course_template_diler/general_information/symposium.html)
+* [Symposium](https://m-earnest.github.io/course_template_diler/general_information/symposium.html)
 
    What to do about outreach and discourse creation?
 

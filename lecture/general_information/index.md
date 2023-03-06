@@ -26,15 +26,15 @@ Within this course we will explore
 
 You can use the following sections to navigate through the content of the lecture:
 
-* [Overview & procedure ](link-to-overview.html)
+* [Overview & procedure ](./general_information/overview.html)
 
    What's this course all about? How are things implemented and supposed to work?
 
-* [General outline](link-to-outline.html)
+* [General outline](./general_information/outline.html)
 
    What are the specific topics and aspects taught?
 
-* [Introduction](link-to-introduction/introduction.html)
+* [Introduction](./introduction/intro.html)
 
    All things gotta start somewhere, but how?
 
@@ -42,11 +42,6 @@ You can use the following sections to navigate through the content of the lectur
 
    What is this course gonna contain?
 
-
-* [Student projects](link-to-projects.html)
-
-   Making sure the work and progress of the participants is transparent and
-   documented.
    
 * [Results communication](https://g0rella.github.io/gorella_base/results_communication.html)
 
@@ -57,11 +52,11 @@ You can use the following sections to navigate through the content of the lectur
    What to do about outreach and discourse creation?
 
 
-* [Diversity, Equity, Inclusion](https://m-earnest.github.io/Python_for_Psychologists_Winter2022/questionnaires.html)
+* [Diversity, Equity, Inclusion](./general_information/dei.html)
 
    What to look out for, what to keep in mind and how to trear each other.
 
-* [Code of Conduct](https://m-earnest.github.io/Python_for_Psychologists_Winter2022/CoC.html)
+* [Code of Conduct](./general_information/CoC.html)
 
    Necessities for creating an open, fair, safe and inclusive learning
    experience.

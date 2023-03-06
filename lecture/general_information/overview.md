@@ -1,11 +1,12 @@
 # Course overview & procedure
 
-For a solid number of years now, the majority of experimental work within `Psychology` (and most other disciplines) requires the use of computers. No matter if `data acquisition` or `analyses`, computer-aided research is almost impossible to avoid and if done right, can be incredible helpful and even enable new types of `analyses` to obtain insights that are otherwise inaccessible. Rather surprisingly to most folks, the efficient utilization of `computers` within `research` also includes `programming` or even requires it. Besides making `research` faster, more streamlined, efficient, stable, eaier to reproduce and less prone to errors, some parts of the  `research workflow` might actually require certain `programming skills`. This usually entails the generation of `experiments` and certain `analyses` of subsequently obtained `data`. 
+Detailed explanation of what the course is about,
 
-<p align="center"><iframe src="https://giphy.com/embed/sgZdwNkOH43wZOEUJ2" width="240" height="240" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen style="overflow-y: hidden;"></iframe></p><p align="center"><a href="https://giphy.com/gifs/parksandrec-episode-9-parks-and-recreation-rec-sgZdwNkOH43wZOEUJ2"><small>via GIPHY</small></a></p></p>
+list of content chapter
+- 
+- 
 
-
-While most thesis projects (undergrad and grad), PhD and other positions that actively work with `data` expect `programming` knowledge and/or experience, most programs however don't enable students to gather this skill set as their curricula don't include respective courses or do not provide adequate support and time to hone this skillset. Obviously, we won't be able to turn you into expert programmers within one semester, but this course is intended to provide you with a good basic understanding of and capabilities with the [Python](https://www.python.org/) [programming language](https://en.wikipedia.org/wiki/Programming_language). Specifically, this course should build the basis for further endeavors, setting you up with everything you need to know for that (especially how and when to look for help).    
+How you want to go about teaching.
 
 ### TL;DR
 
@@ -114,7 +115,7 @@ It’s great that we have so many ways to communicate, but it can get tricky to 
 
 If you have:
 
-**- questions about course content** - these are awesome! We want everyone to see them and have their questions answered too, so either use the [hypothes.is](https://web.hypothes.is/) plugin, the `discord` channel, `e-mail` or the [GitHub repository](https://github.com/M-earnest/Python_for_Psychologists_Winter2022/issues).
+**- questions about course content** - these are awesome! We want everyone to see them and have their questions answered too, so either use the [hypothes.is](https://web.hypothes.is/) plugin, the `discord` channel, `e-mail` or the [GitHub repository](https://github.com/name_of_repo/issues).
 
 **- a technical assignment question** - come to office hours (after making an appointment) or use the provided communication platform to reach out (e.g. discord, slack etc.). Answering technical questions is often best accomplished ‘in person’ where we can discuss the question and talk through ideas. Be as specific as you can in the question you ask (and include error messages when appropriate!). And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
 

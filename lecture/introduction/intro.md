@@ -4,15 +4,13 @@
 In the first block of this course we will focus on X
 
 ## Objectives 📍
-- Get to know each other
-- Provide general information about the course
-    - When & Where?
-    - Who?
+- Learn about X
     - What?
     - How?
+ 
 - get the necessary software  
 - Ask and answer questions
-- Have a great time
+
 
 ## Prerequisities
 

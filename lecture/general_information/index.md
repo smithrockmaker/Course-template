@@ -26,37 +26,37 @@ Within this course we will explore
 
 You can use the following sections to navigate through the content of the lecture:
 
-* [Overview & procedure ](./general_information/overview.html)
+* [Overview & procedure ](https://m-earnest.github.io/course_template_diler/general_information/overview.html)
 
    What's this course all about? How are things implemented and supposed to work?
 
-* [General outline](./general_information/outline.html)
+* [General outline](https://m-earnest.github.io/course_template_diler/general_information/outline.html)
 
    What are the specific topics and aspects taught?
 
-* [Introduction](./introduction/intro.html)
+* [Introduction](https://m-earnest.github.io/course_template_diler/introduction/intro.html)
 
    All things gotta start somewhere, but how?
 
-* [Content](link-to-experiments/experiments.html#)
+* [Content](https://m-earnest.github.io/course_template_diler/content/intro_content.html)
 
    What is this course gonna contain?
 
    
-* [Results communication](https://g0rella.github.io/gorella_base/results_communication.html)
+* [Results communication](https://m-earnest.github.io/course_template_diler/general_information/results_communication.html)
 
    Where should the acquired knowledge to be disseminated?
 
-* [Symposium](https://g0rella.github.io/gorella_base/symposium.html)
+* [Symposium]((https://m-earnest.github.io/course_template_diler/general_information/symposium.html)
 
    What to do about outreach and discourse creation?
 
 
-* [Diversity, Equity, Inclusion](./general_information/dei.html)
+* [Diversity, Equity, Inclusion](https://m-earnest.github.io/course_template_diler/general_information/dei.html)
 
    What to look out for, what to keep in mind and how to trear each other.
 
-* [Code of Conduct](./general_information/CoC.html)
+* [Code of Conduct](https://m-earnest.github.io/course_template_diler/general_information/CoC.html)
 
    Necessities for creating an open, fair, safe and inclusive learning
    experience.

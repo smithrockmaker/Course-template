@@ -9,14 +9,13 @@ chapters:
 - file: introduction/intro.md
   sections:
   - file: introduction/static_content.md
-  - file: introduction/interactive_content.md
+  - file: introduction/interactive_notebook.md
 - file: content/intro  
   sections:
   - file: content/static_content.md
-  - file: content/interactive_content.md
+  - file: content/interactive_notebook.md
   - file: content/creating_content_example.ipynb
 - file: general_information/results_communication
 - file: general_information/symposium
-- file: general_information/questionnaires
 - file: general_information/CoC
 - file: general_information/dei

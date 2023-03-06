@@ -1,6 +1,5 @@
 # General outline
 
-What's in this course?
 What do students need to know before we get started?
 
 ### When and where do we meet?
